@@ -1,4 +1,4 @@
 def turn_count(board)
  board = 1
-  board.each do 
-    if 
+  board.each do |piece|
+    piece
