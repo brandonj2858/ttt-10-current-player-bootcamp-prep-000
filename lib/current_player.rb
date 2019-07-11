@@ -8,5 +8,5 @@ def turn_count(board)
  counter
  end
  
- def current_player(whom)
-   
+ def current_player(board)
+   turn_count 
