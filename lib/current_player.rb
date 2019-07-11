@@ -1,2 +1,3 @@
 def turn_count(board)
- player = 1
+ board = 1
+ if board
